@@ -1,0 +1,54 @@
+<resources>
+    <!--Login-->
+    <string name="app_name">Packages</string>
+    <string name="smart_tubewell">Packages Pickups</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="signin">S I G N I N</string>
+    <string name="remember_me">Remember Me</string>
+
+
+    <!--Retry box-->
+    <string name="no_internet_response">"Please Check Your Internet Connection."</string>
+    <string name="invalid_credentials_response">"Wrong Credentials. PLease try again"</string>
+    <string name="invalid_input_response">"Invalid Input"</string>
+    <string name="late_response">Sorry, please try again in about in a while.</string>
+    <string name="No_event">Sorry, there are no events for last 24 hours.</string>
+    <string name="common_Error">Please try again after some time.</string>
+
+    <!-- Main Activity -->
+
+    <!-- Main Activity -->
+    <string name="logout_txt">Logout</string>
+    <string name="vehicles_description" translatable="false">Vehicles</string>
+    <string name="vehicles_txt">Vehicle</string>
+    <string name="quit_msg">Would you like to Quit the App?</string>
+    <string name="quit_option_yes">Yes</string>
+    <string name="quit_option_no">No</string>
+    <string name="trfa_button_vehicle_list">Vehicle List</string>
+    <string name="trfa_button_summary_list">Vehicle Summary List</string>
+    <string name="trfa_button_geo_fence">Hide/Show Geo Fence</string>
+    <string name="trfa_button_about">About</string>
+    <string name="trfa_button_change_map">Change Map</string>
+    <string name="bird_eye_view">Bird Eye View</string>
+
+
+    <string name="regixCircle" translatable="false">\\((.*?)\\)</string>
+    <string name="UPDATE">Logs</string>
+
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="day_7">7 Days</string>
+    <string name="day_30">30 Days</string>
+    <string name="day_60">60 Days</string>
+    <string name="hours_24">Last 24 Hours</string>
+    <string name="custom_date_60">Custom (max. 60) Days</string>
+    <string name="select_history">Select Duration:</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="error">Error</string>
+    <string name="select_at_least_two_days">Select at least two dates</string>
+    <string name="days_limit_exceeds_60">Please select max. 60 days</string>
+</resources>

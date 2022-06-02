@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="geofence"
+            type="com.smart.agriculture.industrial.solutions.packages.models.GeoFence" />
+
+        <variable
+            name="onItemClick"
+            type="com.smart.agriculture.industrial.solutions.packages.utils.interfaces.ItemClickRecall" />
+    </data>
+
+    <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/vehicle_adaptor_card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/spacing_large"
+        android:layout_marginTop="@dimen/spacing_medium"
+        android:layout_marginRight="@dimen/spacing_large"
+        android:layout_marginBottom="@dimen/spacing_medium"
+        android:background="@drawable/round"
+        android:onClick="@{()->onItemClick.onClick()}"
+        android:orientation="vertical"
+        android:padding="@dimen/spacing_large"
+        app:cardCornerRadius="@dimen/spacing_large"
+        app:cardElevation="@dimen/spacing_large">
+
+        <LinearLayout
+            android:id="@+id/geo_fence_adaptor_linear_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/list_view_main"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:padding="10px"
+            android:weightSum="5"
+            tools:ignore="PxUsage">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1.5"
+                android:padding="5sp"
+                android:src="@drawable/ic_place_black_24dp"
+                android:tint="@color/colorPrimary"
+                tools:ignore="ContentDescription" />
+
+            <LinearLayout
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3.5"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/geo_fence_adaptor_device_description_text_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5sp"
+                    android:text="@={geofence.description}"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/geo_fence_adaptor_device_name_text_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5sp"
+                    android:text="@={geofence.name}"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

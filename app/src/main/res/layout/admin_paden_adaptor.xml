@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="device"
+            type="com.smart.agriculture.industrial.solutions.packages.models.Device" />
+
+        <variable
+            name="onItemClick"
+            type="com.smart.agriculture.industrial.solutions.packages.utils.interfaces.AdminPanelClickRecall" />
+    </data>
+
+    <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/vehicle_adaptor_card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/spacing_large"
+        android:layout_marginTop="@dimen/spacing_medium"
+        android:layout_marginRight="@dimen/spacing_large"
+        android:layout_marginBottom="@dimen/spacing_medium"
+        android:background="@drawable/round"
+        android:orientation="vertical"
+        android:padding="@dimen/spacing_large"
+        app:cardCornerRadius="@dimen/spacing_large"
+        app:cardElevation="@dimen/spacing_large">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/geo_fence_adaptor_linear_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/list_view_main"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="10px"
+                android:weightSum="5"
+                tools:ignore="PxUsage">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1.5"
+                    android:padding="5sp"
+                    android:src="@drawable/marker_car_offline"
+                    tools:ignore="ContentDescription" />
+
+                <LinearLayout
+                    android:layout_width="0sp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3.5"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/geo_fence_adaptor_device_name_text_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5sp"
+                        android:text="@={device.name}"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/geo_fence_adaptor_device_description_text_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5sp"
+                        android:text="@={device.attributes.status}"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20sp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/admin_panel_adaptor_activate"
+                    android:layout_width="0sp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginEnd="10sp"
+                    android:layout_weight="1"
+                    android:background="@drawable/round"
+                    android:backgroundTint="@color/green_700"
+                    android:gravity="center_horizontal"
+                    android:onClick="@{()->onItemClick.activate()}"
+                    android:padding="20sp"
+                    android:text="Activate"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    tools:ignore="ButtonStyle,HardcodedText"
+                    tools:targetApi="lollipop" />
+
+                <Button
+                    android:layout_width="0sp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginStart="10sp"
+                    android:layout_weight="1"
+                    android:background="@drawable/round"
+                    android:backgroundTint="@color/red_600"
+                    android:gravity="center_horizontal"
+                    android:onClick="@{()->onItemClick.deActivate()}"
+                    android:padding="20sp"
+                    android:text="Deactivate"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    tools:ignore="ButtonStyle,HardcodedText"
+                    tools:targetApi="lollipop" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

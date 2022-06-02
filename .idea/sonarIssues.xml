@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/AddTrackerFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/LoginFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/TrackerListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/adapters/TrackerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/fragment/AddTrackerFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/fragment/EditFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/fragment/LoginFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/fragment/TrackerListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/listeners/AddClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/listeners/LogOutClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/listeners/LoginClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/listeners/editClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/model/Tracker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/java/com/smart/agriculture/industrial/solutions/applicationfragment/utils/Const.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/res/layout/add_tracker_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/res/layout/edit_tracker_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/res/layout/login_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/res/layout/tracker_list_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/ApplicationFragment/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/build/generated/data_binding_base_class_source_out/debug/out/com/smart/agriculture/industrial/solutions/mvvm_testing/databinding/ActivityMainBinding.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/src/main/java/com/smart/agriculture/industrial/solutions/mvvm_testing/Interfaces.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/src/main/java/com/smart/agriculture/industrial/solutions/mvvm_testing/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/src/main/java/com/smart/agriculture/industrial/solutions/mvvm_testing/Model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/src/main/java/com/smart/agriculture/industrial/solutions/mvvm_testing/Model/User1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/src/main/java/com/smart/agriculture/industrial/solutions/mvvm_testing/ViewModel/userViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/MVVM_Testing/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/build/generated/data_binding_base_class_source_out/debug/out/com/smart/agriculture/industrial/solutions/studentinventory/databinding/FragmentStudentListBinding.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/DAO/StdDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/Database/StudentDatabase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/Fragments/StudentAddFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/Fragments/StudentListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/Model/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/StdDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/StudentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/Utils/StudentRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/java/com/smart/agriculture/industrial/solutions/studentinventory/Utils/ViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/res/layout/fragment_add_student.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/res/layout/fragment_student_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/res/layout/menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/res/layout/std_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/StudentInventory/app/src/main/res/menu/menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/TrackLogMVVM/app/build/generated/data_binding_base_class_source_out/debug/out/com/smart/agriculture/industrial/solutions/tracklog_mvvm/databinding/LoginFragmentBinding.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/TrackLogMVVM/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/TrackLogMVVM/app/src/main/java/com/smart/agriculture/industrial/solutions/tracklog_mvvm/Fragments/LoginFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/TrackLogMVVM/app/src/main/java/com/smart/agriculture/industrial/solutions/tracklog_mvvm/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/TrackLogMVVM/app/src/main/res/layout/login_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Aiman Dilshad/TrackerFirebase/app/src/main/java/com/smart/agriculture/industrial/solutions/trackerfirebase/AddTracker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/java/com/smart/agriculture/industrial/solutions/smarttubewell/ApiClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/java/com/smart/agriculture/industrial/solutions/smarttubewell/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/java/com/smart/agriculture/industrial/solutions/smarttubewell/model/UserAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/java/com/smart/agriculture/industrial/solutions/smarttubewell/ui/login/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/java/com/smart/agriculture/industrial/solutions/smarttubewell/ui/login/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../AimanDilshad/SmartTubewell/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-diagnostics-2/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-tubewell/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-tubewell/app/src/main/java/com/smartagriculturesolutions/tubewell/Adaptor/AdaptorMotorEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-tubewell/app/src/main/java/com/smartagriculturesolutions/tubewell/CSV.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-tubewell/app/src/main/java/com/smartagriculturesolutions/tubewell/EventScreen/EventScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-tubewell/app/src/main/java/com/smartagriculturesolutions/tubewell/MainScreen/MainScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-tubewell/app/src/main/java/com/smartagriculturesolutions/tubewell/MotorAction/MotorAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Hamza ahmed/smart-tubewell/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../final_MVVM/SmartDiagnostics/app/src/main/java/com/smart/agriculture/industrial/solutions/smartdiagnostics/Model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Tubewell/TubeWell_first/TubeWell/app/src/main/res/layout/activity_event_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/smart/agriculture/industrial/solutions/packages/DataBinderMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/smart/agriculture/industrial/solutions/packages/databinding/RouteFragmentBindingImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/smart/agriculture/industrial/solutions/packages/generated/callback/OnClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/google-services.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/AdminPanel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/MainMenu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/VehicleList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/VehicleLogs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/Device.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/DeviceAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/Direction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/DirectionModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/Event.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/EventAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/GeoFence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/GeoFenceModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/GlobalModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/Position.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/PositionAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/Route.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/models/UserAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/Route/RouteFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/Route/RouteFragmentAdaptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/Route/RouteFragmentRecyclerVew.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/Route/RouteFragmentViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/Route/tmp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/ViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/admin/AdminPanel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/admin/AdminPanelFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/admin/AdminPanelRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/currentgeofence/CurrentGeoFenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/currentgeofence/CurrentGeoFenceRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/fromgeofence/CurrentGeoFenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/fromgeofence/CurrentGeoFenceRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/fromgeofence/FromGeoFenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/fromgeofence/FromGeoFenceRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/login/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/login/LoginFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/main/MainFragmentModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/main/MainMenuFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/main/VehicleListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/menu/MainFragmentModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/menu/MainMenuFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/menu/MenuViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/togeofence/ToGeoFence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/togeofence/ToGeoFenceRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/togeofence/finalgeofence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/togeofence/togeofence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/ui/main/VehicleListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/uppergeofence/uppergeofence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/upperstatus/UpperStatusFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/upperstatus/uppergeofence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/vechiclelist/VehicleListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/vechiclelist/VehicleListRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/vehiclelog/MainViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/vehiclelog/VehicleLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/vehiclelog/VehicleLogFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/vehiclelog/VehicleLogRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/ui/vehiclelog/VehicleLogsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/Constant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/Static.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/URLS.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/WebsiteUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/interfaces/AdminPanelClickRecall.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/interfaces/GeoFenceInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/interfaces/VolleyInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/services/AddCookiesInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/services/ApiClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/services/ApiInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/services/ReceivedCookiesInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/services/Repository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/smart/agriculture/industrial/solutions/packages/utils/services/VolleyPutJSON.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout-v21/main_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout-v21/vehicle_list_adaptor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_admin_panel.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/admin_paden_adaptor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/admin_panel_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/geo_fence_adaptor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/geo_fence_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/login_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/main_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/route_adaptor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/route_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/upper_status_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/vehicle_list_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/vehicle_list_adaptor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/vehicle_list_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/vehicle_logs_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/vehicle_logs_recycler_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/top_bar_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pepsi (Packages)/app/src/main/java/com/smart/agriculture/solutions/pepsi/MainActivity2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pepsi (Packages)/app/src/main/java/com/smart/agriculture/solutions/pepsi/ui/CurrentGeoFence/CurrentGeoFenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pepsi (Packages)/app/src/main/java/com/smart/agriculture/solutions/pepsi/ui/CurrentGeoFence/CurrentGeoFenceRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pepsi (Packages)/app/src/main/java/com/smart/agriculture/solutions/pepsi/ui/FinalGeoFence/FinalGeoFenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pepsi (Packages)/app/src/main/java/com/smart/agriculture/solutions/pepsi/ui/Routes/RoutesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pepsi (Packages)/app/src/main/java/com/smart/agriculture/solutions/pepsi/ui/login/ViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pepsi (Packages)/app/src/main/res/layout/upper_status_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../subhan/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/About.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Eco.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Event.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Extra.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Fuel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Idle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/LiveVehicle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Login.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Route.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/RoutePower.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Speed.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/Summary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/SummaryTrip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/VehicleListCompact.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/activity/VehicleListSummary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/adaptor/DeviceDetailAdaptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/adaptor/TripAdaptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/adaptor/VehicleListCompactAdaptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/callbackinterface/CommonInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/listener/OnMapCallBackListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/model/Event.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/model/PositionAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/model/Summary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/model/Trip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/util/StaticFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/util/StaticRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/java/util/URLS.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/res/layout/activity_live_vehicle.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/res/layout/activity_speed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/res/layout/report_pop_up.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/res/layout/vehicle_list_compact_adaptor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/res/values-pk/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../smart-diagnostics-2/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

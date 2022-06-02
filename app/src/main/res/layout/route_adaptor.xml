@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="globalModel"
+            type="com.smart.agriculture.industrial.solutions.packages.models.GlobalModel" />
+
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+        android:layout_marginLeft="@dimen/spacing_large"
+        android:layout_marginTop="@dimen/spacing_medium"
+        android:layout_marginRight="@dimen/spacing_large"
+        android:layout_marginBottom="@dimen/spacing_medium"
+        android:background="@drawable/round"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="10sp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="5">
+
+            <TextView
+                android:id="@+id/route_fragment_eta_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="30sp"
+                android:layout_weight=".3"
+                android:gravity="center_horizontal"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/route_fragment_time_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight=".3"
+                android:gravity="center_horizontal"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/route_fragment_ignition_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="0sp"
+                android:layout_weight=".3"
+                android:gravity="center_horizontal"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>

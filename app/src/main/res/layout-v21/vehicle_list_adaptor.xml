@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="device"
+            type="com.smart.agriculture.industrial.solutions.packages.models.Device" />
+        <variable
+            name="onItemClick"
+            type="com.smart.agriculture.industrial.solutions.packages.utils.interfaces.ItemClickRecall" />
+    </data>
+
+    <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/vehicle_list_adaptor_card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/spacing_large"
+        android:layout_marginTop="@dimen/spacing_medium"
+        android:layout_marginRight="@dimen/spacing_large"
+        android:layout_marginBottom="@dimen/spacing_medium"
+        android:background="@drawable/round"
+        android:orientation="vertical"
+        android:backgroundTint="@color/colorPrimary"
+        android:onClick="@{()->onItemClick.onClick()}"
+        android:padding="@dimen/spacing_large"
+        app:cardCornerRadius="@dimen/spacing_large"
+        app:cardElevation="@dimen/spacing_large">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/vehicle_list_adaptor_name"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="20sp"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:text="Car Name"
+                android:textColor="@color/colorWhite"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>
